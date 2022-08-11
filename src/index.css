@@ -1,0 +1,45 @@
+.info{
+  background-color: rgb(165, 165, 172);
+  }
+  
+  .newMessages{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .author{
+   width: 100px;
+  }
+  .text{
+    width: 400px;
+  }
+  .formAdmin{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+  }
+  .img{
+    width: 200px;
+    height: 150px;
+  }
+  
+  .inputForm{
+    width: 50%;
+    height: 20px;
+    margin-top: 10px;
+  }
+  .inputText{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 50%;
+    height: 150px;
+  }
+  .save{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 150px;
+    height: 30px;
+    background-color: aqua;
+    border-radius: 15px;
+  }
